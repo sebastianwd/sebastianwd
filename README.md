@@ -16,6 +16,19 @@
 Typescript/JavaScript developer, mainly frontend but I've worked in backend and mobile
 </p>
 
+ Some specific stuff I've worked on professionally and in personal projects:
+
+    - Adding features to production e-commerce sites
+    - Next.js with SSR/SSG
+    - Mobile apps with React Native
+    - GraphQL
+    - CSS animations
+    - Frame by frame operations with videos in the browser
+    - HTML canvas
+    - Discord chatbots
+    - Display of AI models' inference results in web interfaces
+
+
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=kodoku2&cover_image=true" />
 </p>
