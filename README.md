@@ -30,5 +30,5 @@ Typescript/JavaScript developer, mainly frontend but I've worked in backend and 
 
 
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=kodoku2&cover_image=true" height="360" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kodoku2&cover_image=true" height="360" />
 </p>
