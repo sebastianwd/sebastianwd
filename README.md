@@ -12,22 +12,26 @@
  <img height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534606/typescript.svg" /> 
     <a/>
  </p>
-<p align="center">
-Typescript/JavaScript developer, mainly frontend but I've worked in backend and mobile
+<p >
+Typescript/JavaScript/React/Node.js  developer, mainly frontend but I've worked in backend and mobile. 
+</p>
+<p >
+ I'm passionate about staying updated with the latest technologies and tools. 
 </p>
 
- Some specific stuff I've worked on professionally and in personal projects:
+ Some skills:
 
-    - Adding features to production e-commerce sites
-    - Next.js with SSR/SSG
-    - Mobile apps with React Native
+    - Decent understanding of React: hooks, context, state management, rendering cycle, etc.
+    - Javascript / Typescript
+    - Frontend and library architecture and configuration
     - GraphQL
-    - CSS animations
-    - Frame by frame operations with videos in the browser
-    - HTML canvas
+    - CSS / Tailwind
+    - Databases
+    - Git workflows / actions
+    - Analytical skills to identify and solve problems.
     - Discord chatbots
-    - Display of AI models' inference results in web interfaces
-
+    - Adherence to and monitoring of best practices through code reviews
+    - Clean code (eslint standards and prettier, CI workflow checks, etc)
 
 <p align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kodoku2&cover_image=true" height="360" />
