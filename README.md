@@ -34,5 +34,5 @@ Typescript/JavaScript/React/Node.js  developer, mainly frontend but I've worked 
     - Clean code (eslint standards and prettier, CI workflow checks, etc)
 
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kodoku2&cover_image=true" height="360" />
+<img src="https://spotify-status-proxy.caprover.kodokku.xyz/api/view?uid=kodoku2&cover_image=true" height="360" />
 </p>
