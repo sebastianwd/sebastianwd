@@ -34,5 +34,5 @@ Typescript/JavaScript/React/Node.js  developer, mainly frontend but I've worked 
     - Clean code (eslint standards and prettier, CI workflow checks, etc)
 
 <p align="center">
-<img src="https://spotify-status-proxy.caprover.kodokku.xyz" height="360" />
+<img src="https://spotify-status-proxy.caprover.kodokku.xyz" height="248" />
 </p>
