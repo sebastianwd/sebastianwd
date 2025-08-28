@@ -34,5 +34,10 @@ Typescript/JavaScript/React/Node.js  developer, mainly frontend but I've worked 
     - Clean code (eslint standards and prettier, CI workflow checks, etc)
 
 <p align="center">
-<img src="https://spotify-status-proxy.caprover.kodokku.xyz" height="248" />
+
+Checkout my free music player <a href="https://elevenfm.com" target="_blank">ElevenFm</a>:
+
+https://github.com/user-attachments/assets/a54dca28-70f3-4a32-9948-f912015a1a63
+
+
 </p>
